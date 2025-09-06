@@ -48,7 +48,7 @@ table caption {
 
 table {
     border-collapse: collapse;
-    width: 100px;
+    width: 100%;
     background: rgb(72, 75, 249);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
@@ -141,4 +141,5 @@ button[type="reset"]:hover {
     .container {
         grid-template-columns: 3fr;
     }
+
 }
